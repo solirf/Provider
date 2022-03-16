@@ -5,3 +5,9 @@ proxies:
 - {"name":"Turkey🇹🇷_284","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
 - {"name":"Turkey🇹🇷_295","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
 - {"name":"Turkey🇹🇷_296","server":"185.17.113.234","port":809,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"Turkey🇹🇷_178","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"Turkey🇹🇷_215","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"Turkey🇹🇷_216","server":"185.17.113.234","port":809,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"Turkey🇹🇷_253","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"Turkey🇹🇷_258","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"Turkey🇹🇷_259","server":"185.17.113.234","port":809,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
