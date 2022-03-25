@@ -1,4 +1,10 @@
 proxies:
+
+#UFO
+- {name: 10 🇹🇷 Eyuepsultan, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
+
+
+
 - {"name":"Turkey🇹🇷_200","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
 - {"name":"Turkey🇹🇷_241","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
 - {"name":"Turkey🇹🇷_242","server":"185.17.113.234","port":809,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
