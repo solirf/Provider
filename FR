@@ -1,0 +1,11 @@
+proxies:
+- {"name":"🇷🇴 RO_787","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_788","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_789","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_790","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_791","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_792","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_793","server":"91.193.6.66","type":"ss","country":"🇷🇴 RO","port":50004,"password":"4415934295","cipher":"aes-256-cfb",udp: true}
+- {"name":"🇷🇴 RO_794","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_795","server":"62.216.92.167","type":"ss","country":"🇷🇴 RO","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
+- {"name":"🇷🇴 RO_796","server":"188.241.83.130","type":"ss","country":"🇷🇴 RO","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305",udp: true}
