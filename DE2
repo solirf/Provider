@@ -1,5 +1,4 @@
 proxies:
-proxies:
 - {"name":"🇩🇪_DE_atwbnet_25","server":"139.162.148.39","port":443,"type":"ss","country":"🇩🇪_DE_atwbnet_25","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
 - {"name":"🇩🇪_DE_atwbnet_26","server":"139.162.148.39","port":2375,"type":"ss","country":"🇩🇪_DE_atwbnet_26","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
 - {"name":"🇩🇪_DE_atwbnet_27","server":"139.162.148.39","port":2376,"type":"ss","country":"🇩🇪_DE_atwbnet_27","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
