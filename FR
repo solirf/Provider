@@ -40,3 +40,17 @@ proxies:
 - {"name":"🇫🇷 FR 219","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 219","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
 - {"name":"🇫🇷 FR 410","server":"188.241.83.130","port":809,"type":"ss","country":"🇫🇷 FR 410","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
 - {"name":"🇫🇷 FR 1264","server":"5.39.70.138","port":2376,"type":"ss","country":"🇫🇷 FR 1264","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+
+# MCI
+
+- {"name":"🇫🇷 FR 12","server":"51.159.30.61","port":803,"type":"ss","country":"🇫🇷 FR 12","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 13","server":"51.159.30.61","port":805,"type":"ss","country":"🇫🇷 FR 13","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 14","server":"51.159.30.61","port":800,"type":"ss","country":"🇫🇷 FR 14","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 15","server":"51.159.30.61","port":810,"type":"ss","country":"🇫🇷 FR 15","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 16","server":"51.159.30.61","port":804,"type":"ss","country":"🇫🇷 FR 16","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 17","server":"51.159.30.61","port":809,"type":"ss","country":"🇫🇷 FR 17","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 18","server":"51.159.30.61","port":801,"type":"ss","country":"🇫🇷 FR 18","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 19","server":"51.159.30.61","port":808,"type":"ss","country":"🇫🇷 FR 19","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 20","server":"51.159.30.61","port":802,"type":"ss","country":"🇫🇷 FR 20","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 21","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 21","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 27","server":"188.241.83.130","port":809,"type":"ss","country":"🇫🇷 FR 27","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
