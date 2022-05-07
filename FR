@@ -1,56 +1,73 @@
 proxies:
-- {"name":"🇫🇷 FR 170","server":"145.239.1.100","port":8882,"type":"ss","country":"🇫🇷 FR 170","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
-- {"name":"🇫🇷 FR 171","server":"51.159.30.61","port":803,"type":"ss","country":"🇫🇷 FR 171","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 172","server":"54.38.72.170","port":7307,"type":"ss","country":"🇫🇷 FR 172","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
-- {"name":"🇫🇷 FR 174","server":"145.239.1.100","port":6697,"type":"ss","country":"🇫🇷 FR 174","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
-- {"name":"🇫🇷 FR 175","server":"54.38.72.170","port":8080,"type":"ss","country":"🇫🇷 FR 175","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
-- {"name":"🇫🇷 FR 176","server":"145.239.1.100","port":5003,"type":"ss","country":"🇫🇷 FR 176","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
-- {"name":"🇫🇷 FR 177","server":"54.38.72.170","port":3306,"type":"ss","country":"🇫🇷 FR 177","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-- {"name":"🇫🇷 FR 178","server":"5.39.70.138","port":8091,"type":"ss","country":"🇫🇷 FR 178","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
-- {"name":"🇫🇷 FR 179","server":"145.239.1.100","port":9102,"type":"ss","country":"🇫🇷 FR 179","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
-- {"name":"🇫🇷 FR 180","server":"145.239.1.100","port":7001,"type":"ss","country":"🇫🇷 FR 180","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
-- {"name":"🇫🇷 FR 181","server":"145.239.1.100","port":8090,"type":"ss","country":"🇫🇷 FR 181","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
-- {"name":"🇫🇷 FR 182","server":"54.38.72.170","port":2376,"type":"ss","country":"🇫🇷 FR 182","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
-- {"name":"🇫🇷 FR 183","server":"54.38.72.170","port":8091,"type":"ss","country":"🇫🇷 FR 183","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
-- {"name":"🇫🇷 FR 184","server":"145.239.1.100","port":8080,"type":"ss","country":"🇫🇷 FR 184","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
-- {"name":"🇫🇷 FR 185","server":"145.239.1.100","port":8118,"type":"ss","country":"🇫🇷 FR 185","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN", udp: true}
-- {"name":"🇫🇷 FR 186","server":"145.239.1.100","port":8881,"type":"ss","country":"🇫🇷 FR 186","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
-- {"name":"🇫🇷 FR 187","server":"145.239.1.100","port":8008,"type":"ss","country":"🇫🇷 FR 187","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
-- {"name":"🇫🇷 FR 188","server":"5.39.70.138","port":8090,"type":"ss","country":"🇫🇷 FR 188","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
-- {"name":"🇫🇷 FR 189","server":"145.239.1.100","port":443,"type":"ss","country":"🇫🇷 FR 189","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
-- {"name":"🇫🇷 FR 190","server":"145.239.1.100","port":2376,"type":"ss","country":"🇫🇷 FR 190","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
-- {"name":"🇫🇷 FR 191","server":"145.239.1.100","port":8119,"type":"ss","country":"🇫🇷 FR 191","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN", udp: true}
-- {"name":"🇫🇷 FR 192","server":"51.159.30.61","port":805,"type":"ss","country":"🇫🇷 FR 192","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 193","server":"51.159.30.61","port":800,"type":"ss","country":"🇫🇷 FR 193","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 194","server":"51.159.30.61","port":810,"type":"ss","country":"🇫🇷 FR 194","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 195","server":"51.159.30.61","port":804,"type":"ss","country":"🇫🇷 FR 195","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 196","server":"51.159.30.61","port":809,"type":"ss","country":"🇫🇷 FR 196","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 197","server":"51.159.30.61","port":801,"type":"ss","country":"🇫🇷 FR 197","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 198","server":"145.239.1.100","port":6679,"type":"ss","country":"🇫🇷 FR 198","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
-- {"name":"🇫🇷 FR 199","server":"145.239.1.100","port":5500,"type":"ss","country":"🇫🇷 FR 199","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
-- {"name":"🇫🇷 FR 200","server":"51.159.30.61","port":808,"type":"ss","country":"🇫🇷 FR 200","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 201","server":"54.38.72.170","port":2375,"type":"ss","country":"🇫🇷 FR 201","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
-- {"name":"🇫🇷 FR 202","server":"145.239.1.100","port":6379,"type":"ss","country":"🇫🇷 FR 202","cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
-- {"name":"🇫🇷 FR 203","server":"145.239.1.100","port":7306,"type":"ss","country":"🇫🇷 FR 203","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
-- {"name":"🇫🇷 FR 204","server":"51.159.30.61","port":802,"type":"ss","country":"🇫🇷 FR 204","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 205","server":"145.239.1.100","port":8009,"type":"ss","country":"🇫🇷 FR 205","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
-- {"name":"🇫🇷 FR 216","server":"145.239.1.100","port":5004,"type":"ss","country":"🇫🇷 FR 216","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
-- {"name":"🇫🇷 FR 217","server":"54.38.72.170","port":5003,"type":"ss","country":"🇫🇷 FR 217","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
-- {"name":"🇫🇷 FR 218","server":"54.38.72.170","port":5004,"type":"ss","country":"🇫🇷 FR 218","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
-- {"name":"🇫🇷 FR 219","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 219","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 410","server":"188.241.83.130","port":809,"type":"ss","country":"🇫🇷 FR 410","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-- {"name":"🇫🇷 FR 1264","server":"5.39.70.138","port":2376,"type":"ss","country":"🇫🇷 FR 1264","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+- {"name":"🇫🇷 FR 108","server":"145.239.1.100","port":8882,"type":"ss","country":"🇫🇷 FR 108","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+- {"name":"🇫🇷 FR 109","server":"51.159.30.61","port":803,"type":"ss","country":"🇫🇷 FR 109","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 110","server":"54.38.72.170","port":7307,"type":"ss","country":"🇫🇷 FR 110","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+- {"name":"🇫🇷 FR 111","server":"145.239.1.100","port":6697,"type":"ss","country":"🇫🇷 FR 111","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+- {"name":"🇫🇷 FR 112","server":"54.38.72.170","port":8080,"type":"ss","country":"🇫🇷 FR 112","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+- {"name":"🇫🇷 FR 113","server":"145.239.1.100","port":5003,"type":"ss","country":"🇫🇷 FR 113","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+- {"name":"🇫🇷 FR 114","server":"54.38.72.170","port":3306,"type":"ss","country":"🇫🇷 FR 114","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+- {"name":"🇫🇷 FR 115","server":"5.39.70.138","port":8091,"type":"ss","country":"🇫🇷 FR 115","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+- {"name":"🇫🇷 FR 116","server":"145.239.1.100","port":9102,"type":"ss","country":"🇫🇷 FR 116","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+- {"name":"🇫🇷 FR 117","server":"145.239.1.100","port":7001,"type":"ss","country":"🇫🇷 FR 117","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+- {"name":"🇫🇷 FR 118","server":"145.239.1.100","port":8090,"type":"ss","country":"🇫🇷 FR 118","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+- {"name":"🇫🇷 FR 119","server":"54.38.72.170","port":2376,"type":"ss","country":"🇫🇷 FR 119","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+- {"name":"🇫🇷 FR 120","server":"54.38.72.170","port":8091,"type":"ss","country":"🇫🇷 FR 120","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+- {"name":"🇫🇷 FR 121","server":"145.239.1.100","port":8080,"type":"ss","country":"🇫🇷 FR 121","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+- {"name":"🇫🇷 FR 122","server":"145.239.1.100","port":8118,"type":"ss","country":"🇫🇷 FR 122","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+- {"name":"🇫🇷 FR 123","server":"145.239.1.100","port":8881,"type":"ss","country":"🇫🇷 FR 123","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+- {"name":"🇫🇷 FR 124","server":"145.239.1.100","port":8008,"type":"ss","country":"🇫🇷 FR 124","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+- {"name":"🇫🇷 FR 125","server":"5.39.70.138","port":8090,"type":"ss","country":"🇫🇷 FR 125","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+- {"name":"🇫🇷 FR 126","server":"145.239.1.100","port":443,"type":"ss","country":"🇫🇷 FR 126","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+- {"name":"🇫🇷 FR 127","server":"145.239.1.100","port":2376,"type":"ss","country":"🇫🇷 FR 127","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+- {"name":"🇫🇷 FR 128","server":"145.239.1.100","port":8119,"type":"ss","country":"🇫🇷 FR 128","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+- {"name":"🇫🇷 FR 129","server":"51.159.30.61","port":805,"type":"ss","country":"🇫🇷 FR 129","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 130","server":"51.159.30.61","port":800,"type":"ss","country":"🇫🇷 FR 130","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 131","server":"51.159.30.61","port":810,"type":"ss","country":"🇫🇷 FR 131","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 132","server":"51.159.30.61","port":804,"type":"ss","country":"🇫🇷 FR 132","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 133","server":"51.159.30.61","port":809,"type":"ss","country":"🇫🇷 FR 133","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 134","server":"51.159.30.61","port":801,"type":"ss","country":"🇫🇷 FR 134","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 135","server":"145.239.1.100","port":6679,"type":"ss","country":"🇫🇷 FR 135","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+- {"name":"🇫🇷 FR 136","server":"145.239.1.100","port":5500,"type":"ss","country":"🇫🇷 FR 136","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+- {"name":"🇫🇷 FR 137","server":"51.159.30.61","port":808,"type":"ss","country":"🇫🇷 FR 137","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 138","server":"54.38.72.170","port":2375,"type":"ss","country":"🇫🇷 FR 138","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+- {"name":"🇫🇷 FR 139","server":"145.239.1.100","port":6379,"type":"ss","country":"🇫🇷 FR 139","cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+- {"name":"🇫🇷 FR 140","server":"145.239.1.100","port":7306,"type":"ss","country":"🇫🇷 FR 140","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+- {"name":"🇫🇷 FR 141","server":"51.159.30.61","port":802,"type":"ss","country":"🇫🇷 FR 141","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 142","server":"145.239.1.100","port":8009,"type":"ss","country":"🇫🇷 FR 142","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+- {"name":"🇫🇷 FR 143","server":"145.239.1.100","port":5004,"type":"ss","country":"🇫🇷 FR 143","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+- {"name":"🇫🇷 FR 144","server":"54.38.72.170","port":5003,"type":"ss","country":"🇫🇷 FR 144","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+- {"name":"🇫🇷 FR 145","server":"54.38.72.170","port":5004,"type":"ss","country":"🇫🇷 FR 145","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+- {"name":"🇫🇷 FR 146","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 146","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 238","server":"188.241.83.130","port":809,"type":"ss","country":"🇫🇷 FR 238","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 1027","server":"54.38.72.170","port":8090,"type":"ss","country":"🇫🇷 FR 1027","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+- {"name":"🇫🇷 FR 1045","server":"145.239.1.100","port":5601,"type":"ss","country":"🇫🇷 FR 1045","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+- {"name":"🇫🇷 FR 1046","server":"145.239.1.100","port":9101,"type":"ss","country":"🇫🇷 FR 1046","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+- {"name":"🇫🇷 FR 1047","server":"145.239.1.100","port":8000,"type":"ss","country":"🇫🇷 FR 1047","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+- {"name":"🇫🇷 FR 1048","server":"163.172.110.53","port":805,"type":"ss","country":"🇫🇷 FR 1048","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 1049","server":"188.165.32.235","port":8008,"type":"ss","country":"🇫🇷 FR 1049","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+- {"name":"🇫🇷 FR 1050","server":"188.165.32.235","port":7001,"type":"ss","country":"🇫🇷 FR 1050","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+- {"name":"🇫🇷 FR 1051","server":"163.172.110.53","port":809,"type":"ss","country":"🇫🇷 FR 1051","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 1052","server":"188.165.32.235","port":8119,"type":"ss","country":"🇫🇷 FR 1052","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+- {"name":"🇫🇷 FR 1053","server":"54.38.72.170","port":7306,"type":"ss","country":"🇫🇷 FR 1053","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+- {"name":"🇫🇷 FR 1054","server":"188.165.32.235","port":6679,"type":"ss","country":"🇫🇷 FR 1054","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+- {"name":"🇫🇷 FR 1058","server":"163.172.110.53","port":801,"type":"ss","country":"🇫🇷 FR 1058","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 1060","server":"145.239.1.100","port":8888,"type":"ss","country":"🇫🇷 FR 1060","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+- {"name":"🇫🇷 FR 1061","server":"145.239.1.100","port":2375,"type":"ss","country":"🇫🇷 FR 1061","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+
 
 # MCI
 
-- {"name":"🇫🇷 FR 12","server":"51.159.30.61","port":803,"type":"ss","country":"🇫🇷 FR 12","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 13","server":"51.159.30.61","port":805,"type":"ss","country":"🇫🇷 FR 13","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 14","server":"51.159.30.61","port":800,"type":"ss","country":"🇫🇷 FR 14","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 15","server":"51.159.30.61","port":810,"type":"ss","country":"🇫🇷 FR 15","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 16","server":"51.159.30.61","port":804,"type":"ss","country":"🇫🇷 FR 16","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 17","server":"51.159.30.61","port":809,"type":"ss","country":"🇫🇷 FR 17","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 18","server":"51.159.30.61","port":801,"type":"ss","country":"🇫🇷 FR 18","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 19","server":"51.159.30.61","port":808,"type":"ss","country":"🇫🇷 FR 19","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 20","server":"51.159.30.61","port":802,"type":"ss","country":"🇫🇷 FR 20","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 21","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 21","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-- {"name":"🇫🇷 FR 27","server":"188.241.83.130","port":809,"type":"ss","country":"🇫🇷 FR 27","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 19","server":"51.159.30.61","port":803,"type":"ss","country":"🇫🇷 FR 19","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 20","server":"51.159.30.61","port":805,"type":"ss","country":"🇫🇷 FR 20","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 21","server":"51.159.30.61","port":800,"type":"ss","country":"🇫🇷 FR 21","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 22","server":"51.159.30.61","port":810,"type":"ss","country":"🇫🇷 FR 22","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 23","server":"51.159.30.61","port":804,"type":"ss","country":"🇫🇷 FR 23","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 24","server":"51.159.30.61","port":809,"type":"ss","country":"🇫🇷 FR 24","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 25","server":"51.159.30.61","port":801,"type":"ss","country":"🇫🇷 FR 25","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 26","server":"51.159.30.61","port":808,"type":"ss","country":"🇫🇷 FR 26","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 27","server":"51.159.30.61","port":802,"type":"ss","country":"🇫🇷 FR 27","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 28","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 28","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 111","server":"188.241.83.130","port":809,"type":"ss","country":"🇫🇷 FR 111","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 164","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 164","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 169","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 169","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+- {"name":"🇫🇷 FR 178","server":"163.172.110.153","port":809,"type":"ss","country":"🇫🇷 FR 178","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
