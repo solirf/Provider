@@ -1,0 +1,28 @@
+proxies:
+ - {"name":"_01 |45.20Mb","server":"217.30.10.63","type":"ss","port":9014,"udp":true,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+ - {"name":"_02 |30.57Mb","server":"217.30.10.63","type":"ss","port":9011,"udp":true,"password":"M3t2ZEQcMGRWBjRa","cipher":"aes-256-cfb"}
+ - {"name":"_03 |39.96Mb","server":"217.30.10.63","type":"ss","port":9027,"udp":true,"password":"EXN3S3eQpjE7EJu8","cipher":"aes-256-cfb"}
+ - {"name":"_04 |37.35Mb","server":"217.30.10.63","type":"ss","port":9050,"udp":true,"password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
+ - {"name":"_07 |42.30Mb","server":"217.30.10.63","type":"ss","port":9045,"udp":true,"password":"Lp27rqyJq72bZsqX","cipher":"aes-256-cfb"}
+ - {"name":"_08 |39.66Mb","server":"217.30.10.63","type":"ss","port":9038,"udp":true,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
+ - {"name":"_09 |42.55Mb","server":"217.30.10.63","type":"ss","port":9094,"udp":true,"password":"rpgbNnU9rDDU4aWZ","cipher":"aes-256-cfb"}
+ - {"name":"_10 |39.99Mb","server":"217.30.10.63","type":"ss","port":9057,"udp":true,"password":"wjTugX3ZtHMB9c3Z","cipher":"aes-256-cfb"}
+ - {"name":"_11 |38.73Mb","server":"217.30.10.63","type":"ss","port":9008,"udp":true,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
+ - {"name":"_13 |30.97Mb","server":"217.30.10.63","type":"ss","port":9000,"udp":true,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
+ - {"name":"_14 |37.81Mb","server":"217.30.10.63","type":"ss","port":9059,"udp":true,"password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
+ - {"name":"_15 |48.60Mb","server":"217.30.10.63","type":"ss","port":9060,"udp":true,"password":"ueLXVkvh4hckhErQ","cipher":"aes-256-cfb"}
+ - {"name":"_16 |31.20Mb","server":"217.30.10.63","type":"ss","port":9033,"udp":true,"password":"UTJA57ypk2XKQpnm","cipher":"aes-256-cfb"}
+ - {"name":"_17 |39.10Mb","server":"217.30.10.63","type":"ss","port":9064,"udp":true,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb"}
+ - {"name":"_23 |42.45Mb","server":"217.30.10.63","type":"ss","port":9056,"udp":true,"password":"rNBfNuuANFCAk7KB","cipher":"aes-256-cfb"}
+ - {"name":"_29 | 8.11Mb","server":"103.172.116.9","type":"ss","port":9079,"udp":true,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
+ - {"name":"_30 |45.26Mb","server":"149.202.82.172","type":"ss","port":7002,"udp":true,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+ - {"name":"_31 |42.90Mb","server":"217.30.10.63","type":"ss","port":9079,"udp":true,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
+ - {"name":"_38 | 7.63Mb","server":"103.172.116.9","type":"ss","port":9006,"udp":true,"password":"FAdUvMJUq5vDgKEq","cipher":"aes-256-cfb"}
+ - {"name":"_39 |39.44Mb","server":"217.30.10.63","type":"ss","port":9031,"udp":true,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
+ - {"name":"_40 |38.81Mb","server":"217.30.10.63","type":"ss","port":9043,"udp":true,"password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb"}
+ - {"name":"_41 |39.03Mb","server":"217.30.10.63","type":"ss","port":9018,"udp":true,"password":"fG2artUmHfNT2cX7","cipher":"aes-256-cfb"}
+ - {"name":"_42 |30.91Mb","server":"217.30.10.63","type":"ss","port":9084,"udp":true,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
+ - {"name":"_43 |38.81Mb","server":"217.30.10.63","type":"ss","port":9010,"udp":true,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
+ - {"name":"_45","server":"14.29.124.168","type":"ss","port":24006,"udp":true,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+ - {"name":"_46 | 2.88Mb","server":"14.29.124.168","type":"ss","port":24008,"udp":true,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+ - {"name":"_47","server":"14.29.124.168","type":"ss","port":24002,"udp":true,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
