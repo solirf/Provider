@@ -1,0 +1,2 @@
+proxies:
+- {name: FR 🇫🇷 01, server: 217.70.188.48, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YoIjHsvUBzcg, udp: true}
