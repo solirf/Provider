@@ -1,0 +1,2 @@
+proxies:
+- {"type":"ss","name":"UK 0","server":"172.99.190.149","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74","udp":true}
