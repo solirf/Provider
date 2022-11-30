@@ -1,95 +1,27 @@
-mixed-port: 7890
-allow-lan: true
-mode: Rule
-log-level: info
 proxies:
-  - {name: M247 🇩🇪 Germany (1), server: 185.104.184.78, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (2), server: 185.104.184.78, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (3), server: 185.104.184.78, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (4), server: 185.104.184.78, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (5), server: 185.104.184.78, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (6), server: 185.104.184.78, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (7), server: 185.104.184.78, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (8), server: 185.104.184.78, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (9), server: 185.104.184.78, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (10), server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (11), server: 185.104.184.78, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (12), server: 185.104.184.78, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (13), server: 185.104.184.78, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (14), server: 193.176.86.190, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (15), server: 193.176.86.190, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (16), server: 193.176.86.190, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (17), server: 193.176.86.190, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (18), server: 193.176.86.190, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (19), server: 193.176.86.190, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (20), server: 193.176.86.190, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (21), server: 193.176.86.190, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (22), server: 193.176.86.190, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (23), server: 193.176.86.190, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (24), server: 193.176.86.190, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (25), server: 193.176.86.190, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: M247 🇩🇪 Germany (26), server: 193.176.86.190, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-proxy-groups:
-  - name: 🔰 SELECT(@BN_CHANLL)
-    type: select
-    proxies:
-      - ♻️ BESTPING(@BN_CHANLL)
-      - M247 🇩🇪 Germany (1)
-      - M247 🇩🇪 Germany (2)
-      - M247 🇩🇪 Germany (3)
-      - M247 🇩🇪 Germany (4)
-      - M247 🇩🇪 Germany (5)
-      - M247 🇩🇪 Germany (6)
-      - M247 🇩🇪 Germany (7)
-      - M247 🇩🇪 Germany (8)
-      - M247 🇩🇪 Germany (9)
-      - M247 🇩🇪 Germany (10)
-      - M247 🇩🇪 Germany (11)
-      - M247 🇩🇪 Germany (12)
-      - M247 🇩🇪 Germany (13)
-      - M247 🇩🇪 Germany (14)
-      - M247 🇩🇪 Germany (15)
-      - M247 🇩🇪 Germany (16)
-      - M247 🇩🇪 Germany (17)
-      - M247 🇩🇪 Germany (18)
-      - M247 🇩🇪 Germany (19)
-      - M247 🇩🇪 Germany (20)
-      - M247 🇩🇪 Germany (21)
-      - M247 🇩🇪 Germany (22)
-      - M247 🇩🇪 Germany (23)
-      - M247 🇩🇪 Germany (24)
-      - M247 🇩🇪 Germany (25)
-      - M247 🇩🇪 Germany (26)
-  - name: ♻️ BESTPING(@BN_CHANLL)
-    type: url-test
-    url: http://google.com
-    interval: 300
-    proxies:
-      - M247 🇩🇪 Germany (1)
-      - M247 🇩🇪 Germany (2)
-      - M247 🇩🇪 Germany (3)
-      - M247 🇩🇪 Germany (4)
-      - M247 🇩🇪 Germany (5)
-      - M247 🇩🇪 Germany (6)
-      - M247 🇩🇪 Germany (7)
-      - M247 🇩🇪 Germany (8)
-      - M247 🇩🇪 Germany (9)
-      - M247 🇩🇪 Germany (10)
-      - M247 🇩🇪 Germany (11)
-      - M247 🇩🇪 Germany (12)
-      - M247 🇩🇪 Germany (13)
-      - M247 🇩🇪 Germany (14)
-      - M247 🇩🇪 Germany (15)
-      - M247 🇩🇪 Germany (16)
-      - M247 🇩🇪 Germany (17)
-      - M247 🇩🇪 Germany (18)
-      - M247 🇩🇪 Germany (19)
-      - M247 🇩🇪 Germany (20)
-      - M247 🇩🇪 Germany (21)
-      - M247 🇩🇪 Germany (22)
-      - M247 🇩🇪 Germany (23)
-      - M247 🇩🇪 Germany (24)
-      - M247 🇩🇪 Germany (25)
-      - M247 🇩🇪 Germany (26)
-rules:
- - MATCH,♻️ BESTPING(@BN_CHANLL),🔰 SELECT(@BN_CHANLL)
+  - {name: 🇩🇪 M247 🇩🇪 Germany (1), server: 185.104.184.78, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (2), server: 185.104.184.78, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (3), server: 185.104.184.78, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (4), server: 185.104.184.78, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (5), server: 185.104.184.78, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (6), server: 185.104.184.78, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (7), server: 185.104.184.78, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (8), server: 185.104.184.78, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (9), server: 185.104.184.78, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (10), server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (11), server: 185.104.184.78, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (12), server: 185.104.184.78, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (13), server: 185.104.184.78, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (14), server: 193.176.86.190, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (15), server: 193.176.86.190, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (16), server: 193.176.86.190, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (17), server: 193.176.86.190, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (18), server: 193.176.86.190, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (19), server: 193.176.86.190, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (20), server: 193.176.86.190, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (21), server: 193.176.86.190, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (22), server: 193.176.86.190, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (23), server: 193.176.86.190, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (24), server: 193.176.86.190, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (25), server: 193.176.86.190, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 M247 🇩🇪 Germany (26), server: 193.176.86.190, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
